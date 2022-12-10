@@ -1,6 +1,5 @@
-### Hi there 👋
+### Hi there 👋, I'm Hrigved!
 
-<h1 align="center">I'm Hrigved!</h1>
 <h3 align="center">Determined, Creative, Innovator</h3>
 <h3 align="center">I am an Engineering student trying to build something creative from scratch. Emerging technologies have always intrigued me and I feel grateful to have the opportunity to solve some of the problems around using these technologies. Dart(Flutter), Python, C++, C, Javascript(NodeJs), Java and Kotlin(Android) are some of the languages that I have worked with.</h3>
 
